@@ -22,3 +22,13 @@ To run this dashboard locally, ensure you have [Node.js](https://nodejs.org/) in
    ```bash
    git clone [https://github.com/YourUsername/options-dashboard.git](https://github.com/YourUsername/options-dashboard.git)
    cd options-dashboard
+2. Install dependencies:
+   Bash
+   npm install
+
+3. Start the Vite development server:
+   Bash
+   npm run dev
+
+4. View the application:
+   Open http://localhost:5173/ in your browser.
